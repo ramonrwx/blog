@@ -10,6 +10,8 @@ paginate = 5
 description = "Site do Ramon Rodrigues"
 keywords = "programação, python, rust, golang"
 
+enableEmoji = true
+
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
 
@@ -49,5 +51,3 @@ keywords = "programação, python, rust, golang"
 	alt = "Logo"
 	logoText = "ramon rodrigues"
 	logoHomeLink = "/"
-
-
