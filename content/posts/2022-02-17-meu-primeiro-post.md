@@ -2,6 +2,7 @@
 title: "Esse é meu primeiro post"
 author: "Ramon Rodrigues"
 date: "2022-02-17"
+hideReadMore: true
 output: html_document
 ---
 
