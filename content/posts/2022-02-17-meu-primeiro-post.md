@@ -1,11 +1,14 @@
 ---
-title: "Esse é meu primeiro post"
-author: "Ramon Rodrigues"
-date: "2022-02-17"
+title: "Olá, mundo!"
+author: "ramonrwx"
+description: ""
+date: "2022-02-18"
+slug: hello-world
+cover: ola-mundo.png
+categories: []
+tags: []
 hideReadMore: true
 output: html_document
 ---
 
-# Olá, mundo!
-
-Primeira vez utilizando o Hugo para criar um blog.
+Essa é minha primeira vez escrevendo em um blog.

@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "pt-br"
 DefaultContentLanguage = "pt-br"
 
-title = "Ramon Rodrigues"
+title = "ramonrwx"
 theme = "hello-friend"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 5
@@ -16,7 +16,7 @@ enableEmoji = true
   posts = "/:year/:month/:day/:slug/"
 
 [author]
-  name = "Ramon Rodrigues"
+  name = "ramonrwx"
 
 [[menu.main]]
   name = "Sobre"
@@ -30,7 +30,7 @@ enableEmoji = true
 	showReadingTime = true
 	highlightjsVersion = "9.12.0"
 	highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-	highlightjsLang = ["rust", "yaml", "python", "go"]
+	highlightjsLang = ["rust", "yaml", "python", "go", "sh", "bash", "lua"]
 	highlightjsTheme = "github"
 	MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
 	MathJaxVersion = "2.7.5"
@@ -49,5 +49,5 @@ enableEmoji = true
 	width = 50
 	height = 50
 	alt = "Logo"
-	logoText = "ramon rodrigues"
+	logoText = "ramonrwx"
 	logoHomeLink = "/"

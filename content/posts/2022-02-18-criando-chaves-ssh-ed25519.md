@@ -1,10 +1,11 @@
 ---
 title: "Criando chaves SSH ED25519"
-author: "Ramon Rodrigues"
+author: "ramonrwx"
 description: "As chaves SSH fornecem uma maneira fácil e segura de fazer login
 no seu servidor e são recomendadas para todos os usuários."
 date: "2022-02-18"
 slug: criando-chaves-ssh-ed25519
+cover: ssh.png
 categories: [linux]
 tags: [segurança, ssh, ed25519]
 hideReadMore: true
