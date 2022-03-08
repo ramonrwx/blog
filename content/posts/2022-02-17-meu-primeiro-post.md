@@ -4,7 +4,7 @@ author: "ramonrwx"
 description: ""
 date: "2022-02-18"
 slug: hello-world
-cover: ola-mundo.png
+cover: images/ola-mundo.png
 categories: []
 tags: []
 hideReadMore: true

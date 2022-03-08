@@ -3,7 +3,7 @@ date: "2022-02-17"
 title: Sobre
 ---
 
-{{< image src="/profile.jpg" alt="rin okumura" position="center"
+{{< image src="../images/profile.png" alt="rin okumura" position="center"
 style="width:150px;height:150px;border-radius:50%;">}}
 
 Olá, meu nome é **Ramon Rodrigues**, tenho **24 anos**, sou de **João Pessoa,
